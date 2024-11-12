@@ -27,7 +27,7 @@
       </ul>
         <form class="d-flex" action="login.jsp">
         <button class="btn btn-outline-success" type="submit">Login</button>
-        
+        &nbsp&nbsp&nbsp
       </form>
         <form class="d-flex" action="signup.jsp">
         <button class="btn btn-outline-info" type="submit">SignUp</button>
